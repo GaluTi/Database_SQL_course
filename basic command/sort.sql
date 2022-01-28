@@ -1,0 +1,1 @@
+SELECT * FROM `airports` ORDER BY `flight_number`

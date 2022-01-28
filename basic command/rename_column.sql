@@ -1,0 +1,1 @@
+ALTER TABLE `airports` RENAME COLUMN `longtitude` TO `longitude`;
